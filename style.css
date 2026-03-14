@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #ffe6f0;
+  color: #333;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+#ocImage {
+  width: 200px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
